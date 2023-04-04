@@ -1,4 +1,4 @@
-Bounty Boards for vorpcore
+Bounty Boards with ai bounty missions for vorpcore
 
 ## 1. Requirements
 
