@@ -1,3 +1,5 @@
+Bounty Boards for vorpcore
+
 ## 1. Requirements
 
 - [VORP-Core](https://github.com/VORPCORE/VORP-Core)
