@@ -1,5 +1,3 @@
-# Originally Vorp xmau_bounty, changed bounty board coords to better places and changed keybind to start a bounty!
-
 ## 1. Requirements
 
 - [VORP-Core](https://github.com/VORPCORE/VORP-Core)
