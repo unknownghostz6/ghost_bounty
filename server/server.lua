@@ -42,8 +42,8 @@ AddEventHandler('bounty:checkcard', function()
 	local Character = VorpCore.getUser(_source).getUsedCharacter
     local job = Character.job
 	local item = true
-    --[[ if job == "bountyhunter" then
+    if job == "bountyhunter" then
 		item = true
-	end ]]
+	end
 	TriggerClientEvent('bounty:findcard', _source,item,cooldown)
 end)
